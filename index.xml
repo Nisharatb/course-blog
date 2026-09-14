@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Course Blog</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://Nisharatb.github.io/course-blog/</link>
+<atom:link href="https://Nisharatb.github.io/course-blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 13 Sep 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <link>https://Nisharatb.github.io/course-blog/posts/post-with-code/</link>
   <description><![CDATA[ 
 
 
@@ -29,14 +29,14 @@
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Sun, 13 Sep 2026 22:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://Nisharatb.github.io/course-blog/posts/post-with-code/</guid>
+  <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://Nisharatb.github.io/course-blog/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>My Bioinformatics Blog - Nishara</title>
   <dc:creator>Nishara </dc:creator>
-  <link>https://your-website-url.example.com/posts/quarto-blog-Day1/</link>
+  <link>https://Nisharatb.github.io/course-blog/posts/quarto-blog-Day1/</link>
   <description><![CDATA[ 
 
 
@@ -67,13 +67,13 @@
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/quarto-blog-Day1/</guid>
-  <pubDate>Sun, 13 Sep 2026 22:00:00 GMT</pubDate>
+  <guid>https://Nisharatb.github.io/course-blog/posts/quarto-blog-Day1/</guid>
+  <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Welcome To My Blog</title>
   <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>https://Nisharatb.github.io/course-blog/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -81,15 +81,15 @@
 
 
 <p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://Nisharatb.github.io/course-blog/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
 
 
  ]]></description>
   <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Thu, 10 Sep 2026 22:00:00 GMT</pubDate>
+  <guid>https://Nisharatb.github.io/course-blog/posts/welcome/</guid>
+  <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
