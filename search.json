@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "How to Make a Quarto Blog",
+    "section": "",
+    "text": "Quarto is a publishing system that can be used to create documents, websites, blogs, and reproducible reports."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "How to Make a Quarto Blog",
+    "section": "",
+    "text": "Quarto is a publishing system that can be used to create documents, websites, blogs, and reproducible reports."
+  },
+  {
+    "objectID": "index.html#creating-a-quarto-blog",
+    "href": "index.html#creating-a-quarto-blog",
+    "title": "How to Make a Quarto Blog",
+    "section": "Creating a Quarto blog",
+    "text": "Creating a Quarto blog\nA Quarto blog can be created using Visual Studio Code.\nFirst, open the Command Palette:\nCtrl + Shift + P\nThen select:\nQuarto: Create Project\nChoose Blog Project, select a location, and give the project a name."
+  },
+  {
+    "objectID": "index.html#exploring-the-blog",
+    "href": "index.html#exploring-the-blog",
+    "title": "How to Make a Quarto Blog",
+    "section": "Exploring the blog",
+    "text": "Exploring the blog\nA Quarto blog contains several files and folders.\nThe posts folder contains the individual blog posts. The index.qmd file controls the main page of the blog."
+  },
+  {
+    "objectID": "index.html#previewing-the-blog",
+    "href": "index.html#previewing-the-blog",
+    "title": "How to Make a Quarto Blog",
+    "section": "Previewing the blog",
+    "text": "Previewing the blog\nQuarto can render the blog into HTML. The rendered blog can then be viewed in a web browser."
+  },
+  {
+    "objectID": "index.html#what-i-learned",
+    "href": "index.html#what-i-learned",
+    "title": "How to Make a Quarto Blog",
+    "section": "What I learned",
+    "text": "What I learned\nCreating this blog helped me learn how Quarto projects are structured and how Markdown can be used to create web content."
+  },
+  {
+    "objectID": "posts/quarto-blog-Day1/index.html",
+    "href": "posts/quarto-blog-Day1/index.html",
+    "title": "My Bioinformatics Blog - Nishara",
+    "section": "",
+    "text": "Day 1 - What I learned today\nToday I created my first blog using Quarto. I learned how Quarto can be used to create and publish a blog.\n\n\nData management and reproducible research\nI learned about the importance of good data management and reproducible research. Properly organizing, documenting, and managing data makes research easier to understand, share, and reproduce.\n\n\nUsing Git collaboratively\nI also learned how to use Git for version control and collaborative work. I learned to add the students list in alphabetical order.\n\n\nCreating my Quarto blog\nAs part of today’s work, I created a Quarto blog and explored its structure. I learned how blog posts are stored in the posts folder and how Quarto renders the .qmd files into web pages.\nOverall, today I gained practical experience with Quarto, data management, reproducible research and Git. These tools and practices will be useful for managing and sharing my research work in a reproducible way."
+  }
+]
