@@ -1,0 +1,24 @@
+---
+title: "My Bioinformatics Blog - Nishara"
+author: "Nishara"
+date: "2026-09-14"
+categories: [news, code, analysis]
+---
+
+### Day 1 - What I learned today
+
+Today I created my first blog using Quarto. I learned how Quarto can be used to create and publish a blog.
+
+### Data management and reproducible research
+
+I learned about the importance of good data management and reproducible research. Properly organizing, documenting, and managing data makes research easier to understand, share, and reproduce.
+
+### Using Git collaboratively
+
+I also learned how to use Git for version control and collaborative work. I learned to add the students list in alphabetical order.
+
+### Creating my Quarto blog
+
+As part of today's work, I created a Quarto blog and explored its structure. I learned how blog posts are stored in the `posts` folder and how Quarto renders the `.qmd` files into web pages.
+
+Overall, today I gained practical experience with **Quarto, data management, reproducible research and Git**. These tools and practices will be useful for managing and sharing my research work in a reproducible way.

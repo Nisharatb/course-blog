@@ -1,0 +1,52 @@
+---
+title: "How to Make a Quarto Blog"
+author: "Nishara"
+date: "2026-09-14"
+listing:
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+## Introduction
+
+Quarto is a publishing system that can be used to create
+documents, websites, blogs, and reproducible reports.
+
+## Creating a Quarto blog
+
+A Quarto blog can be created using Visual Studio Code.
+
+First, open the Command Palette:
+
+`Ctrl + Shift + P`
+
+Then select:
+
+`Quarto: Create Project`
+
+Choose **Blog Project**, select a location, and give the
+project a name.
+
+## Exploring the blog
+
+A Quarto blog contains several files and folders.
+
+The `posts` folder contains the individual blog posts.
+The `index.qmd` file controls the main page of the blog.
+
+## Previewing the blog
+
+Quarto can render the blog into HTML. The rendered blog can
+then be viewed in a web browser.
+
+## What I learned
+
+Creating this blog helped me learn how Quarto projects are
+structured and how Markdown can be used to create web content.
+
