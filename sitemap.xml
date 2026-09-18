@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Nisharatb.github.io/course-blog/posts/post-with-code/index.html</loc>
-    <lastmod>2026-09-18T05:57:13.435Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Nisharatb.github.io/course-blog/about.html</loc>
-    <lastmod>2026-09-18T05:57:13.427Z</lastmod>
+    <loc>https://Nisharatb.github.io/course-blog/posts/welcome/index.html</loc>
+    <lastmod>2026-09-14T13:16:31.116Z</lastmod>
   </url>
   <url>
     <loc>https://Nisharatb.github.io/course-blog/index.html</loc>
-    <lastmod>2026-09-18T05:57:13.427Z</lastmod>
+    <lastmod>2026-09-14T13:16:31.108Z</lastmod>
   </url>
   <url>
-    <loc>https://Nisharatb.github.io/course-blog/posts/welcome/index.html</loc>
-    <lastmod>2026-09-18T05:57:13.435Z</lastmod>
+    <loc>https://Nisharatb.github.io/course-blog/about.html</loc>
+    <lastmod>2026-09-14T13:16:31.099Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Nisharatb.github.io/course-blog/posts/post-with-code/index.html</loc>
+    <lastmod>2026-09-18T05:54:10.480Z</lastmod>
   </url>
 </urlset>

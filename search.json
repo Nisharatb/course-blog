@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Bioinformatics Blog by Nishara",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is a blog by Nishara"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#day-1-monday-september-14",
-    "href": "posts/post-with-code/index.html#day-1-monday-september-14",
-    "title": "Bioinformatics Blog by Nishara",
-    "section": "Day 1 – Monday, September 14",
-    "text": "Day 1 – Monday, September 14\n\nData management and reproducible research\nUsing Git collaboratively\nCreating a blog with Quarto\nPublishing the blog with GitHub Actions"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#day-2-tuesday-september-15",
-    "href": "posts/post-with-code/index.html#day-2-tuesday-september-15",
-    "title": "Bioinformatics Blog by Nishara",
-    "section": "Day 2 – Tuesday, September 15",
-    "text": "Day 2 – Tuesday, September 15\n\nIntroduction to Pixi environments\nQuality control of sequencing data\nPython in Pixi\nIntroduction to containers\nUsing containers on data"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#day-3-wednesday-september-16",
-    "href": "posts/post-with-code/index.html#day-3-wednesday-september-16",
-    "title": "Bioinformatics Blog by Nishara",
-    "section": "Day 3 – Wednesday, September 16",
-    "text": "Day 3 – Wednesday, September 16\n\nIntroduction to Nextflow\nNextflow basics\nNextflow RNA-seq workflow\nWriting and publishing a blog entry"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#day-4-thursday-september-17",
-    "href": "posts/post-with-code/index.html#day-4-thursday-september-17",
-    "title": "Bioinformatics Blog by Nishara",
-    "section": "Day 4 – Thursday, September 17",
-    "text": "Day 4 – Thursday, September 17\n\nIntroduction to nf-core\nTesting an nf-core pipeline\nSetting up an nf-core pipeline\nWriting and publishing a blog entry"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#day-5-friday-september-18",
-    "href": "posts/post-with-code/index.html#day-5-friday-september-18",
-    "title": "Bioinformatics Blog by Nishara",
-    "section": "Day 5 – Friday, September 18",
-    "text": "Day 5 – Friday, September 18\n\nVisualizing results with ggplot\nAI in bioinformatics\nCourse discussion and finishing"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "index.html",
@@ -91,10 +49,52 @@
     "text": "What I learned\nCreating this blog helped me learn how Quarto projects are structured and how Markdown can be used to create web content."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Bioinformatics Blog by Nishara",
+    "section": "",
+    "text": "This is a blog by Nishara"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#day-1-monday-september-14",
+    "href": "posts/post-with-code/index.html#day-1-monday-september-14",
+    "title": "Bioinformatics Blog by Nishara",
+    "section": "Day 1 – Monday, September 14",
+    "text": "Day 1 – Monday, September 14\n\nData management and reproducible research\nUsing Git collaboratively\nCreating a blog with Quarto\nPublishing the blog with GitHub Actions"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#day-2-tuesday-september-15",
+    "href": "posts/post-with-code/index.html#day-2-tuesday-september-15",
+    "title": "Bioinformatics Blog by Nishara",
+    "section": "Day 2 – Tuesday, September 15",
+    "text": "Day 2 – Tuesday, September 15\n\nIntroduction to Pixi environments\nQuality control of sequencing data\nPython in Pixi\nIntroduction to containers\nUsing containers on data"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#day-3-wednesday-september-16",
+    "href": "posts/post-with-code/index.html#day-3-wednesday-september-16",
+    "title": "Bioinformatics Blog by Nishara",
+    "section": "Day 3 – Wednesday, September 16",
+    "text": "Day 3 – Wednesday, September 16\n\nIntroduction to Nextflow\nNextflow basics\nNextflow RNA-seq workflow\nWriting and publishing a blog entry"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#day-4-thursday-september-17",
+    "href": "posts/post-with-code/index.html#day-4-thursday-september-17",
+    "title": "Bioinformatics Blog by Nishara",
+    "section": "Day 4 – Thursday, September 17",
+    "text": "Day 4 – Thursday, September 17\n\nIntroduction to nf-core\nTesting an nf-core pipeline\nSetting up an nf-core pipeline\nWriting and publishing a blog entry"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#day-5-friday-september-18",
+    "href": "posts/post-with-code/index.html#day-5-friday-september-18",
+    "title": "Bioinformatics Blog by Nishara",
+    "section": "Day 5 – Friday, September 18",
+    "text": "Day 5 – Friday, September 18\n\nVisualizing results with ggplot\nAI in bioinformatics\nCourse discussion and finishing"
   }
 ]
