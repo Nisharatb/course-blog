@@ -19,6 +19,4 @@ I also learned how to use Git for version control and collaborative work. I lear
 
 ### Creating my Quarto blog
 
-As part of today's work, I created a Quarto blog and explored its structure. I learned how blog posts are stored in the `posts` folder and how Quarto renders the `.qmd` files into web pages.
-
 Overall, today I gained practical experience with **Quarto, data management, reproducible research and Git**. These tools and practices will be useful for managing and sharing my research work in a reproducible way.
