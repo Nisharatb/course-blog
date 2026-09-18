@@ -1,9 +1,45 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Bioinformatics Blog by Nishara"
+author: "Nishara"
 date: "2026-09-14"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+This is a blog by Nishara
+
+
+## Day 1 – Monday, September 14
+
+- Data management and reproducible research
+- Using Git collaboratively
+- Creating a blog with Quarto
+- Publishing the blog with GitHub Actions
+
+## Day 2 – Tuesday, September 15
+
+- Introduction to Pixi environments
+- Quality control of sequencing data
+- Python in Pixi
+- Introduction to containers
+- Using containers on data
+
+## Day 3 – Wednesday, September 16
+
+- Introduction to Nextflow
+- Nextflow basics
+- Nextflow RNA-seq workflow
+- Writing and publishing a blog entry
+
+## Day 4 – Thursday, September 17
+
+- Introduction to nf-core
+- Testing an nf-core pipeline
+- Setting up an nf-core pipeline
+- Writing and publishing a blog entry
+
+## Day 5 – Friday, September 18
+
+- Visualizing results with ggplot
+- AI in bioinformatics
+- Course discussion and finishing
