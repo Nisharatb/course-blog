@@ -10,7 +10,7 @@
 <atom:link href="https://Nisharatb.github.io/course-blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 13 Sep 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
@@ -30,7 +30,7 @@
   <category>code</category>
   <category>analysis</category>
   <guid>https://Nisharatb.github.io/course-blog/posts/post-with-code/</guid>
-  <pubDate>Sun, 13 Sep 2026 22:00:00 GMT</pubDate>
+  <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
   <media:content url="https://Nisharatb.github.io/course-blog/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -57,7 +57,6 @@
 </section>
 <section id="creating-my-quarto-blog" class="level3">
 <h3 class="anchored" data-anchor-id="creating-my-quarto-blog">Creating my Quarto blog</h3>
-<p>As part of today’s work, I created a Quarto blog and explored its structure. I learned how blog posts are stored in the <code>posts</code> folder and how Quarto renders the <code>.qmd</code> files into web pages.</p>
 <p>Overall, today I gained practical experience with <strong>Quarto, data management, reproducible research and Git</strong>. These tools and practices will be useful for managing and sharing my research work in a reproducible way.</p>
 
 
@@ -68,7 +67,7 @@
   <category>code</category>
   <category>analysis</category>
   <guid>https://Nisharatb.github.io/course-blog/posts/quarto-blog-Day1/</guid>
-  <pubDate>Sun, 13 Sep 2026 22:00:00 GMT</pubDate>
+  <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Welcome To My Blog</title>
@@ -89,7 +88,7 @@
  ]]></description>
   <category>news</category>
   <guid>https://Nisharatb.github.io/course-blog/posts/welcome/</guid>
-  <pubDate>Thu, 10 Sep 2026 22:00:00 GMT</pubDate>
+  <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
