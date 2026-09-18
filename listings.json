@@ -3,7 +3,6 @@
     "listing": "/index.html",
     "items": [
       "/posts/post-with-code/index.html",
-      "/posts/quarto-blog-Day1/index.html",
       "/posts/welcome/index.html"
     ]
   }

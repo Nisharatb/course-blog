@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "posts/quarto-blog-Day1/index.html",
-    "href": "posts/quarto-blog-Day1/index.html",
-    "title": "My Bioinformatics Blog - Nishara",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Day 1 - What I learned today\nToday I created my first blog using Quarto. I learned how Quarto can be used to create and publish a blog.\n\n\nData management and reproducible research\nI learned about the importance of good data management and reproducible research. Properly organizing, documenting, and managing data makes research easier to understand, share, and reproduce.\n\n\nUsing Git collaboratively\nI also learned how to use Git for version control and collaborative work. I learned to add the students list in alphabetical order.\n\n\nCreating my Quarto blog\nOverall, today I gained practical experience with Quarto, data management, reproducible research and Git. These tools and practices will be useful for managing and sharing my research work in a reproducible way."
+    "text": "This is a post with executable code."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "About this blog"
   },
   {
     "objectID": "index.html",
@@ -56,17 +56,10 @@
     "text": "What I learned\nCreating this blog helped me learn how Quarto projects are structured and how Markdown can be used to create web content."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
